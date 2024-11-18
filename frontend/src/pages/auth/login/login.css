@@ -1,0 +1,73 @@
+.login {
+  width: 500px !important;
+  max-width: 330px !important;
+}
+
+.form-signin {
+  padding: 15px !important;
+}
+
+.email {
+  margin-bottom: -1px !important;
+  border-bottom-right-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+}
+
+.password {
+  margin-bottom: 10px !important;
+  border-top-left-radius: 0 !important;
+  border-top-right-radius: 0 !important;
+}
+
+.nav-link {
+  background-color: white !important;
+  color: black !important;
+  border: none !important;
+  padding: 0.5rem 1rem !important;
+  font-size: 0.9rem !important;
+  font-weight: 500 !important;
+  transition: all 0.3s ease !important;
+  height: min-content !important;
+  border: 1px solid transparent !important;
+}
+
+.nav-link:hover {
+  border: 1px solid #252525 !important;
+}
+
+.nav-link:active {
+  transform: scale(0.9) !important;
+}
+
+.boton {
+  background-color: #0d8102 !important;
+  color: white !important;
+  border: none !important;
+  padding: 0.5rem 1rem !important;
+  font-size: 0.9rem !important;
+  font-weight: 500 !important;
+  transition: all 0.3s ease !important;
+  height: min-content !important;
+  border: 1px solid #252525 !important;
+}
+
+.boton:active {
+  transform: scale(0.9) !important;
+}
+
+.boton:hover {
+  border: 1px solid #0d8102 !important;
+  background-color: white !important;
+  color: #0d8102 !important;
+}
+
+.text-link {
+  color: #252525 !important;
+  font-size: 0.9rem !important;
+  font-weight: 500 !important;
+  text-decoration: none !important;
+}
+
+a {
+  text-decoration: none !important;
+}
